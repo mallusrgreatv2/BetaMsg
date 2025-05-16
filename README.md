@@ -1,5 +1,7 @@
 # BetaMsg
 
+[Join my Discord server](https://discord.gg/HRaFffMjkq)
+
 Adds /msg and /r commands to CraftBukkit beta 1.7.3 server.
 
 ## Usage
