@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BetaMsg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BetaMsg_jar</output-path>
+    <root id="archive" name="BetaMsg.jar">
+      <element id="module-output" name="BetaMsg" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/CraftBukkit Beta 1.7.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
